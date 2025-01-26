@@ -1,0 +1,8 @@
+{
+  "venvPath": "/home/harshnj/.pyenv/versions",
+  "venv": "ml-ai",
+
+  "reportMissingTypeStubs": false,
+  "typeCheckingMode": "standard",
+  // "useLibraryCodeForTypes": false
+}

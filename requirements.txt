@@ -1,0 +1,5 @@
+keras==3.7.0
+numpy==2.0.2
+scikit-learn==1.5.2
+streamlit==1.41.0
+tensorflow==2.18.0
