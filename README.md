@@ -16,4 +16,4 @@ The RandomForestClassifier model achieves a 80.36% accuracy on test data
 
 ### Demo
 
-You can try out the demo streamlit app at
+You can try out the demo streamlit app at https://placement-classify.streamlit.app/
